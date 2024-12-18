@@ -1,1 +1,1 @@
-# AWS-QuickSight
+This project demonstrates the use of Amazon QuickSight to create interactive dashboards for visualizing Netflix data trends. The data was sourced from an S3 bucket via a manifest.json file. The dashboards highlight key trends like release years and categories of movies and TV shows. The insights are exportable, showcasing the power of cloud-based data analytics for real-time visualizations.
